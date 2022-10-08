@@ -90,7 +90,7 @@ There are two ways to create links.
 
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
 
-[You can use numbers for reference-style link definitions][1]
+[You can use numbers for reference-style link definitions]
 
 Or leave it empty and use the [link text itself].
 
@@ -166,11 +166,11 @@ But let's throw in a <b>tag</b>.
 Footnotes
 Footnotes aren't part of the core Markdown spec, but they supported by GFM.
 
-Here is a simple footnote[^1].
+Here is a simple footnote.
 
-A footnote can also have multiple lines[^2].  
+A footnote can also have multiple lines.
 
-You can also use words, to fit your writing style more closely[^note].
+You can also use words, to fit your writing style more closely.
 
 [^1]: My reference.
 [^2]: Every new line should be prefixed with 2 spaces.  
